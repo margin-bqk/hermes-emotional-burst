@@ -1,9 +1,14 @@
 {
-  "name": "hermes-emotion-burst",
+  "name": "hermes-emotional-burst",
   "version": "0.1.0",
   "private": true,
   "description": "Hermes Desktop plugin: emoji bursts over the chat when the reasoning stream gets emotional",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margin-bqk/hermes-emotional-burst.git"
+  },
+  "homepage": "https://github.com/margin-bqk/hermes-emotional-burst",
   "scripts": {
     "test": "node --test test/"
   },
