@@ -1,0 +1,9 @@
+name: emotion-burst
+version: 0.1.0
+description: >-
+  Pops a small emoji burst over the Hermes Desktop chat when the model's
+  reasoning stream gets emotional, and logs what tripped it. Desktop-only:
+  no agent tools, hooks, middleware, providers or environment variables.
+author: margin-bqk
+kind: desktop
+requires_hermes: ">=0.21.5"
