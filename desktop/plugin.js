@@ -714,7 +714,7 @@ function register(context) {
 
 export default {
   id: ID,
-  name: 'Emotion Burst',
+  name: 'Emotional Burst',
   description: 'Pops a small emoji burst over the chat when the reasoning stream gets emotional.',
   // Opt-in: an effect that covers the chat should be the user's choice.
   defaultEnabled: false,
